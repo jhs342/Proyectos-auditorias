@@ -1,0 +1,25 @@
+# Proyectos de Auditoría y Ciberseguridad
+
+Repositorio con estudios de caso censurados, prácticas de análisis web y documentación de hallazgos realizados de forma ética y responsable.
+
+## Casos documentados
+
+### Possible Payment Parameter Tampering
+
+Análisis de una solicitud HTTP donde se observaron parámetros sensibles enviados desde el cliente, incluyendo monto, moneda y datos asociados a una compra.
+
+El caso fue documentado de forma censurada, sin exponer dominio real, cookies, tokens, correos, IDs internos ni datos sensibles.
+
+## Herramientas utilizadas
+
+- Burp Suite
+- Navegador web
+- Análisis manual de requests HTTP
+- OWASP Top 10
+
+## Enfoque
+
+- Divulgación responsable
+- No explotación dañina
+- No exposición de datos sensibles
+- Documentación técnica profesional
